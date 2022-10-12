@@ -1,12 +1,8 @@
-html {
+html,body {
   margin: 0;
   border: 0;
   font-size: 1em;
   background-color: #ffffff;
   color: #000000;
   text-align: center;
-}
-
-.post-list {
-	text-align: center;
 }
