@@ -5,4 +5,9 @@ html, body {
   background-color: #ffffff;
   color: #000000;
   text-align: center;
+  
+}
+
+li {
+	list-style-position: inside;
 }
